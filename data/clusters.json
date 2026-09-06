@@ -1,0 +1,22 @@
+{
+  "OVULATION": {
+    "label": "Ovulation (Cycle/Periods)",
+    "synonyms": ["irregular periods", "amenorrhea", "infrequent cycles", "no period", "anovulation", "missed periods", "long cycles"],
+    "description": "Irregular, infrequent, or absent menstrual cycles"
+  },
+  "METABOLIC": {
+    "label": "Metabolic",
+    "synonyms": ["weight gain", "insulin resistance", "lipid changes", "difficulty losing weight", "sugar cravings", "energy crashes"],
+    "description": "Weight, metabolic, or glucose-regulation related patterns"
+  },
+  "ANDROGENIC": {
+    "label": "Androgenic",
+    "synonyms": ["hirsutism", "acne", "male-pattern baldness", "hair loss", "excess facial hair", "chin hair", "oily skin"],
+    "description": "Signs commonly associated with elevated androgen levels"
+  },
+  "PSYCHOLOGICAL": {
+    "label": "Psychological (Mood)",
+    "synonyms": ["anxiety", "depression", "mood changes", "stress", "low mood", "irritability"],
+    "description": "Psychological or emotional impacts sometimes reported alongside physical symptoms"
+  }
+}
