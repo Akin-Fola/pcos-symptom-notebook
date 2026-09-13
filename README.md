@@ -1,16 +1,15 @@
-# Symptom Pattern Notebook
+# Symptom Pattern Artefact
 
-A Streamlit prototype that helps someone recognise possible PCOS-related
+A Streamlit prototype that helps someone recognise possible PCOS (PMOS)-related
 symptom patterns from their own free-text narrative — without diagnosing
-them. Built from a project brief for an HCAI (human-centred AI) evaluation
-study.
+them. Built for HCAI Master's Dissertation.
 
 ## What it does
 
 Someone describes their symptoms in their own words. Claude identifies
 which of four symptom clusters (Ovulation, Metabolic, Androgenic,
 Psychological) their narrative touches on, explains the reasoning in
-plain, non-diagnostic language, and suggests questions they could bring to
+plain, non-diagnostic language and suggests questions they could bring to
 a doctor. The relevant phrases in their own narrative are highlighted to
 show exactly what informed each pattern.
 
