@@ -1,6 +1,6 @@
 import json
 
-from llm_client import call_llm
+from llm_pmos import call_llm
 
 SAMPLE_NARRATIVE = (
     "My periods have always been irregular, sometimes two or three months apart. "
