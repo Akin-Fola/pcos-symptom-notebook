@@ -1,8 +1,8 @@
 # Symptom Pattern Artefact
 
 A Streamlit prototype that helps someone recognise possible PCOS (PMOS)-related
-symptom patterns from their own free-text narrative — without diagnosing
-them. Built for HCAI Master's Dissertation.
+symptom patterns from their own free-text narrative *without diagnosing
+them*. Built for HCAI Master's Dissertation.
 
 ## What it does
 
