@@ -27,7 +27,7 @@ streamlit run app.py
 ```
 
 Runs at `http://localhost:8501`. With no API key set, it runs in **mock
-mode** — a simple keyword matcher stands in for Claude, so you can try the
+mode**. A simple keyword matcher stands in for Claude, so you can try the
 whole app for free.
 
 ## Running the tests
