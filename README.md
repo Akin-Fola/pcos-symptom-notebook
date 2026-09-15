@@ -41,7 +41,7 @@ python3 -m pytest tests/ -v
 ```
 app.py                  Streamlit UI, submission handling, results display
 prompts.py               Builds Claude's instructions from data/clusters.json
-llm_client.py             Calls Claude, with retries and a mock mode fallback
+llm_pmos.py             Calls Claude, with retries and a mock mode fallback
 validation.py             Checks narrative length/content before submitting
 data/clusters.json        The four symptom clusters and their term lists
 tests/                    Automated tests (validation, LLM output, highlighting)
