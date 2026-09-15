@@ -8,7 +8,7 @@ from prompts import build_system_prompt, CLUSTER_NAMES
 from dotenv import load_dotenv
 load_dotenv()
 
-logger = logging.getLogger("pcos_prototype.llm_client")
+logger = logging.getLogger("pcos_prototype.llm_pmos")
 
 MODEL_NAME = "claude-sonnet-4-5"
 MAX_TOKENS = 1024
