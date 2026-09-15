@@ -3,7 +3,7 @@ import json
 
 import streamlit as st
 
-from llm_client import LLMError, call_llm
+from llm_pmos import LLMError, call_llm
 from prompts import CLUSTER_LABELS
 from validation import ValidationError, validate_narrative
 
